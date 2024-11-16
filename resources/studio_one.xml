@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="resources/studio_one.xslt"?>
+<!DOCTYPE catalog [
+    <!ELEMENT catalog (mp3+)>
+    <!ELEMENT mp3 (album, artist, country, company, song, media, price, year)>
+    <!ELEMENT album (#PCDATA)>
+    <!ELEMENT artist (#PCDATA)>
+    <!ELEMENT country (#PCDATA)>
+    <!ELEMENT company (#PCDATA)>
+    <!ELEMENT song (#PCDATA)>
+    <!ELEMENT media (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+    <!ELEMENT year (#PCDATA)>
+]>
+<catalog>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Can't slow down</song>
+        <media>audio/MP3</media>
+        <price>8.50</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>  
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Hello</song>
+        <media>audio/MP3</media>
+        <price>12.90</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>All Night Long</song>
+        <media>audio/MP3</media>
+        <price>13.30</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Ani't No Sayin' No</song>
+        <media>audio/MP3</media>
+        <price>10.00</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Tell Me</song>
+        <media>audio/MP3</media>
+        <price>7.50</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Penny Lover</song>
+        <media>audio/MP3</media>
+        <price>7.00</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Stuck on You</song>
+        <media>audio/MP3</media>
+        <price>9.80</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Can't Find Love</song>
+        <media>audio/MP3</media>
+        <price>8.80</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Low Will Find a Way</song>
+        <media>audio/MP3</media>
+        <price>10.50</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>The Only One</song>
+        <media>audio/MP3</media>
+        <price>6.90</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>The Groove</song>
+        <media>audio/MP3</media>
+        <price>9.20</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Can't slow down</album>
+        <artist>Lionel Richie</artist>
+        <country>USA</country>
+        <company>Motown Records</company>
+        <song>Blues</song>
+        <media>audio/MP3</media>
+        <price>6.50</price>
+        <year>2003</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Total Eclipse of the Heart</song>
+        <media>audio/MP3</media>
+        <price>12.60</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Faster Than the Speed of Night</song>
+        <media>audio/MP3</media>
+        <price>11.90</price>
+        <year>1983</year>
+    </mp3>    
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Have You Ever Seen the Rain?</song>
+        <media>audio/MP3</media>
+        <price>8.60</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Getting So Excited</song>
+        <media>audio/MP3</media>
+        <price>10.00</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>It's a Jungle Out There</song>
+        <media>audio/MP3</media>
+        <price>9.00</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Tears</song>
+        <media>audio/MP3</media>
+        <price>8.90</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Take Me Back</song>
+        <media>audio/MP3</media>
+        <price>8.90</price>
+        <year>1983</year>
+    </mp3>
+    <mp3>
+        <album>Faster Than the Speed of Night</album>
+        <artist>Bonnie Tyler</artist>
+        <country>USA</country>
+        <company>CBS Records</company>
+        <song>Straight from the Heart</song>
+        <media>audio/MP3</media>
+        <price>9.90</price>
+        <year>1983</year>
+    </mp3>
+</catalog>
