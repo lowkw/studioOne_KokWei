@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="resources/studio_one.xslt"?>
-<!DOCTYPE catalog [
-    <!ELEMENT catalog (mp3+)>
-    <!ELEMENT mp3 (album, artist, country, company, song, media, price, year)>
-    <!ELEMENT album (#PCDATA)>
-    <!ELEMENT artist (#PCDATA)>
-    <!ELEMENT country (#PCDATA)>
-    <!ELEMENT company (#PCDATA)>
-    <!ELEMENT song (#PCDATA)>
-    <!ELEMENT media (#PCDATA)>
-    <!ELEMENT price (#PCDATA)>
-    <!ELEMENT year (#PCDATA)>
-]>
-<catalog>
+<!-- Linking the xsl file for transforming -->
+<?xml-stylesheet type="text/xsl" href="studio_one.xslt"?>
+<!-- Root element "catalog" with a reference to the external XSD schema -->
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+         xsi:noNamespaceSchemaLocation="studio_one.xsd">
     <mp3>
         <album>Can't slow down</album>
         <artist>Lionel Richie</artist>
@@ -21,8 +12,8 @@
         <song>Can't slow down</song>
         <media>audio/MP3</media>
         <price>8.50</price>
-        <year>2003</year>
-    </mp3>
+        <year>2003</year>        
+    </mp3>    
     <mp3>
         <album>Can't slow down</album>  
         <artist>Lionel Richie</artist>
